@@ -1,6 +1,6 @@
 # DeepReduce
 
-### [Report-Link](https://docs.google.com/document/d/1LQq0OhO5bmb6K5ctD0FtUgUFXEU-lKuLNY_fL4dGMx0/edit#)
+### [Report-Link](https://docs.google.com/document/d/1LQq0OhO5bmb6K5ctD0FtUgUFXEU-lKuLNY_fL4dGMx0/edit?usp=sharing)
 
 > - Task 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/yashgupta1299/DeepReduce/blob/main/as4_I.ipynb "Open Notebook")
 > - Task 2, 3, 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/yashgupta1299/DeepReduce/blob/main/as4_II_III_IV.ipynb "Open Notebook")
